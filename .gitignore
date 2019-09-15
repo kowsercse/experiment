@@ -3,4 +3,5 @@
 gradle-app.setting
 !gradle-wrapper.jar
 .gradletasknamecache
-.idea/*
+/.idea/
+/out/
